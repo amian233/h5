@@ -8,7 +8,7 @@
 - 列表2
 - 列表3
 
-![IMG_0821](/Users/shen/Desktop/xuexi/IMG_0821.jpg)
+![IMG_0821](./IMG_0821.jpg)
 
 
 
